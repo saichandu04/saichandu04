@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 ⚡ I love math and programming 🌱 I’m addicted to learning and grow every day 🌍 I am currently sharing a little bit of my knowledge to the world through my blogs and open-source communities
 
-* 🌍  I'm based in India
+* 🌍  I'm based in the United States of America
 * ✉️  You can contact me at [sunkara029@gmail.com](mailto:sunkara029@gmail.com)
 * 🧠  I'm learning Artificial Intelligence
 * 🤝  I'm open to collaborating on Python, Machine Learning and OpenCV
