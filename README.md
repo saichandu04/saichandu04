@@ -2,7 +2,8 @@
 
 <div align="center">
   
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue&style=flat-square)
+[![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue&style=flat-square)](https://komarev.com/ghpvc/?username=saichandu&color=blue&style=flat-square
+)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/sunkara-sai-chandu/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:saichandusunkara1998@gmail.com)
 
