@@ -59,15 +59,6 @@ Currently, I focus on MLOps, large language models (LLMs), and generative AI to 
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white)
 
-### Trending & Emerging Skills
-- Explainable AI (SHAP, LIME)  
-- Generative AI & Transformer fine-tuning  
-- Data Privacy & Security (HIPAA, GDPR)  
-- Edge AI & IoT analytics  
-- Serverless functions (AWS Lambda, GCP Cloud Functions)  
-- Cloud-native data engineering (Apache Beam, Snowflake)  
-- Advanced SQL and NoSQL (Graphs, OLAP)
-
 ---
 
 ## 💼 Professional Experience
