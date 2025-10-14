@@ -26,32 +26,47 @@ Currently, I focus on MLOps, large language models (LLMs), and generative AI to 
 ## 🛠️ Tech Stack & Trending Skills
 
 ### Programming Languages & Tools
-- Python, R, SQL, Scala
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white)
+![Scala](https://img.shields.io/badge/Scala-DC322F?logo=scala&logoColor=white)
 
 ### Machine Learning & AI
-- TensorFlow, PyTorch, scikit-learn, Hugging Face Transformers
-- Large Language Models (GPT-4, ChatGPT, LLaMA, OpenAI API)
-- Generative AI & Transformer fine-tuning and deployment
-- Explainable AI & Fairness techniques (SHAP, LIME)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikitlearn&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?logo=huggingface&logoColor=black)
+![GPT-4](https://img.shields.io/badge/GPT4-19A974?logo=openai&logoColor=white)
 
 ### Big Data & Cloud Platforms
-- Apache Spark, Databricks, Hadoop
-- AWS, Azure ML, Google Cloud Platform (GCP)
-- Serverless architecture: AWS Lambda, GCP Cloud Functions
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?logo=apachespark&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?logo=databricks&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?logo=googlecloud&logoColor=white)
+![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?logo=aws-lambda&logoColor=white)
 
 ### Data Engineering & MLOps
-- Docker, Kubernetes, Kubeflow
-- Apache Airflow for orchestration
-- MLflow for experiment tracking and CI/CD
-- Cloud-native data engineering with Apache Beam, Dataflow, Snowflake
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?logo=apacheairflow&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?logo=mlflow&logoColor=white)
+![Kubeflow](https://img.shields.io/badge/Kubeflow-F37626?logo=kubeflow&logoColor=white)
 
 ### Databases & Visualization
-- Snowflake, PostgreSQL, Power BI, Tableau
-- Advanced SQL & NoSQL (OLAP, Graph Databases)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?logo=snowflake&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white)
 
-### Data Privacy & Edge Computing 
-- Differential Privacy, HIPAA, GDPR compliance
-- Edge AI & IoT (on-device ML, sensor analytics)
+### Trending & Emerging Skills
+- Explainable AI (SHAP, LIME)  
+- Generative AI & Transformer fine-tuning  
+- Data Privacy & Security (HIPAA, GDPR)  
+- Edge AI & IoT analytics  
+- Serverless functions (AWS Lambda, GCP Cloud Functions)  
+- Cloud-native data engineering (Apache Beam, Snowflake)  
+- Advanced SQL and NoSQL (Graphs, OLAP)
 
 ---
 
