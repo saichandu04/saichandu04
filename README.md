@@ -1,78 +1,91 @@
-<!-- Hero -->
-<h1 align="center">Hi, I'm Sai Chandu Sunkara 👋</h1>
-<p align="center">Data Scientist & ML Engineer — Python • Spark • Azure • AWS — building scalable, real‑world AI.</p>
-
+<!-- Header -->
+<h1 align="center">Sai Chandu Sunkara</h1>
 <p align="center">
-  <a href="https://www.linkedin.com/in/sunkara-sai-chandu/">LinkedIn</a> •
-  <a href="mailto:saichandusunkara1998@gmail.com">Email</a>
+  <em>Data Scientist & Machine Learning Engineer dedicated to building scalable AI/ML solutions in healthcare and life sciences.</em>
+</p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/sunkara-sai-chandu/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:saichandusunkara1998@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-## 🚀 About
-Data Scientist with 5+ years delivering AI/ML and NLP solutions in healthcare and life sciences, from modeling to production on cloud platforms[attached_file:1].  
-Currently focused on MLOps and LLM‑powered workflows that turn unstructured data into decisions at scale[attached_file:1].  
+## 🚀 About Me
+
+I am a passionate Data Scientist with over 5 years of experience developing AI/ML solutions driving data-driven decisions in healthcare and life sciences. My expertise encompasses advanced predictive modeling, natural language processing, and scalable cloud deployments.
+
+Currently, I focus on MLOps, large language models (LLMs), and generative AI to innovate clinical NLP pipelines and optimize care delivery.
 
 ---
 
-## 🧰 Tech Stack
-- Languages: Python, R, SQL, Scala[attached_file:1]  
-- ML/AI: TensorFlow, PyTorch, scikit‑learn, Hugging Face[attached_file:1]  
-- Big Data: Apache Spark, Databricks, Hadoop[attached_file:1]  
-- MLOps: MLflow, Docker, Kubernetes, Airflow[attached_file:1]  
-- Cloud: Azure ML, AWS, GCP Vertex AI[attached_file:1]  
-- Warehousing & BI: Snowflake, PostgreSQL, Power BI, Tableau[attached_file:1]  
+## 🛠️ Tech Stack
 
-Badges:
-  
+### Programming Languages & Tools
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white)
 ![Scala](https://img.shields.io/badge/Scala-DC322F?logo=scala&logoColor=white)
+
+### Machine Learning & AI
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?logo=huggingface&logoColor=000)
-![scikit‑learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white)
-![Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?logo=apachespark&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikitlearn&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?logo=huggingface&logoColor=black)
+
+### Big Data & Cloud Platforms
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?logo=apachespark&logoColor=white)
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?logo=databricks&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?logo=googlecloud&logoColor=white)
-![Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?logo=apacheairflow&logoColor=white)
+
+### Data Engineering & MLOps
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?logo=apacheairflow&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?logo=mlflow&logoColor=white)
+
+### Databases & BI
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?logo=snowflake&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?logo=powerbi&logoColor=000)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white)
 
 ---
 
-## 🔭 Currently
-- Designing LLM/NLP pipelines for clinical text and risk stratification on Azure ML and Databricks[attached_file:1].  
-- Hardening MLOps with MLflow tracking, CI/CD, and containerized deployments to Kubernetes[attached_file:1].  
+## 💼 Professional Experience
+
+### Data Scientist (AI/ML) | Humana (Jan 2025 - Present)  
+- Deployed machine learning models predicting patient readmissions leading to an 18% reduction rate.  
+- Developed fraud detection deep learning models improving accuracy by 25%.  
+- Created advanced NLP pipelines using BERT and Transformer models for clinical text analysis.  
+- Led development of scalable ETL workflows with Spark, Databricks, and Airflow.
+
+### Data Scientist (AI/ML) | CitiusTech (May 2019 - July 2023)  
+- Engineered predictive models forecasting patient adherence, improving patient engagement.  
+- Optimized PySpark ETL pipelines, cutting runtime from 8 hours to under 2 hours.  
+- Designed and implemented clinical NLP solutions improving text classification precision by 22%.  
+- Containerized ML pipelines with Docker; set up CI/CD using Jenkins.
 
 ---
 
-## 🧪 Featured Projects
-- Clinical Text NLP Pipeline — end‑to‑end preprocessing, NER (ClinicalBERT), classification API with FastAPI (new repo)[attached_file:1].  
-- KNN‑from‑scratch — clean implementation with metrics and decision boundary visualizations[attached_file:1].  
-- Computer‑vision‑files — classic CV pipelines and augmentation demos[attached_file:1].  
-- NLP‑files — tokenization, embeddings, sequence models, and evaluation utilities[attached_file:1].  
-- Flask_regex — micro‑service showcasing pattern extraction and form validation[attached_file:1].  
-- URL_shortner — minimal URL shortener with persistence and tests[attached_file:1].  
+## 🎯 Key Projects
 
-_Link format example: `https://github.com/saichandu04/REPO_NAME` (update each item to the exact repository)[attached_file:1].  
+- **Healthcare Readmission Prediction:** Applied XGBoost and TensorFlow models to health claims data; deployed on Azure ML with automated retraining pipelines.  
+- **Fraud Detection System:** Built CNN, RNN, and Transformer models in PyTorch; improved fraud detection accuracy by 25%, reduced false positives by 15%.  
+- **Clinical NLP Pipeline:** Extracted clinical risk indicators from notes using BERT, SpaCy, and Hugging Face Transformers; significantly improved patient care personalization.
 
 ---
 
-## 💼 Experience
-- Data Scientist (AI/ML) — Humana: readmission prediction, fraud detection with Transformers, Spark ETL on Databricks[attached_file:1].  
-- Data Scientist (AI/ML) — CitiusTech: predictive modeling, clinical NLP, PySpark optimization, CI/CD with Docker/Jenkins[attached_file:1].  
+## 📫 Contact Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sunkara-sai-chandu/)  
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:saichandusunkara1998@gmail.com)  
 
 ---
 
-## 📫 Contact
-<a href="https://www.linkedin.com/in/sunkara-sai-chandu/">LinkedIn</a> • <a href="mailto:saichandusunkara1998@gmail.com">Email</a> • New York, USA[attached_file:1].  
-
-<p align="center"><i>“Turning data into actionable insights, one model at a time.”</i> 🚀</p>
+<p align="center"><em>“Turning data into actionable insights, one model at a time.” 🚀</em></p>
