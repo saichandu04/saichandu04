@@ -1,5 +1,5 @@
 <!-- Header -->
-<h1 align="center">Sai Chandu Sunkara</h1>
+<h1 align="center">Hi, my name is Sai Chandu Sunkara 👋</h1>
 <p align="center">
   <em>Data Scientist & Machine Learning Engineer dedicated to building scalable AI/ML solutions in healthcare and life sciences.</em>
 </p>
@@ -10,6 +10,7 @@
   <a href="mailto:saichandusunkara1998@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
+  <span>📱 +1 (551) 359-0972</span>
 </p>
 
 ---
@@ -85,6 +86,7 @@ Currently, I focus on MLOps, large language models (LLMs), and generative AI to 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sunkara-sai-chandu/)  
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:saichandusunkara1998@gmail.com)  
+📱 +1 (551)359-0972
 
 ---
 
