@@ -1,104 +1,78 @@
-# Hi there! 👋 I'm Sai Chandu Sunkara
+<!-- Hero -->
+<h1 align="center">Hi, I'm Sai Chandu Sunkara 👋</h1>
+<p align="center">Data Scientist & ML Engineer — Python • Spark • Azure • AWS — building scalable, real‑world AI.</p>
 
-<div align="center">
+<p align="center">
+  <a href="https://www.linkedin.com/in/sunkara-sai-chandu/">LinkedIn</a> •
+  <a href="mailto:saichandusunkara1998@gmail.com">Email</a>
+</p>
+
+---
+
+## 🚀 About
+Data Scientist with 5+ years delivering AI/ML and NLP solutions in healthcare and life sciences, from modeling to production on cloud platforms[attached_file:1].  
+Currently focused on MLOps and LLM‑powered workflows that turn unstructured data into decisions at scale[attached_file:1].  
+
+---
+
+## 🧰 Tech Stack
+- Languages: Python, R, SQL, Scala[attached_file:1]  
+- ML/AI: TensorFlow, PyTorch, scikit‑learn, Hugging Face[attached_file:1]  
+- Big Data: Apache Spark, Databricks, Hadoop[attached_file:1]  
+- MLOps: MLflow, Docker, Kubernetes, Airflow[attached_file:1]  
+- Cloud: Azure ML, AWS, GCP Vertex AI[attached_file:1]  
+- Warehousing & BI: Snowflake, PostgreSQL, Power BI, Tableau[attached_file:1]  
+
+Badges:
   
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/sunkara-sai-chandu/)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:saichandusunkara1998@gmail.com)
-
-</div>
-
-## 🚀 About Me
-
-Data Scientist with 5+ years of experience building **AI/ML solutions** for healthcare and life sciences. Passionate about leveraging **machine learning, deep learning, and NLP** to solve real-world problems and drive data-driven decision-making.
-
-- 🔭 Currently working at **Humana** as a Data Scientist (AI/ML)
-- 🌱 Exploring **MLOps, LLMs, and generative AI**
-- 💼 Previously at **CitiusTech** building predictive healthcare models
-- 🎓 Master's in Information Systems from **Pace University, NY**
-- 📫 Reach me: saichandusunkara1998@gmail.com
-
----
-
-## 🛠️ Tech Stack
-
-### Languages & Tools
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![Scala](https://img.shields.io/badge/-Scala-DC322F?style=flat-square&logo=scala&logoColor=white)
-
-### Machine Learning & AI
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-
-### Big Data & Cloud
-![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
-![Databricks](https://img.shields.io/badge/-Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
-![GCP](https://img.shields.io/badge/-GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
-
-### Data Engineering & MLOps
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Airflow](https://img.shields.io/badge/-Airflow-017CEE?style=flat-square&logo=apache-airflow&logoColor=white)
-![MLflow](https://img.shields.io/badge/-MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
-
-### Databases & Visualization
-![Snowflake](https://img.shields.io/badge/-Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
-![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=power-bi&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white)
+![Scala](https://img.shields.io/badge/Scala-DC322F?logo=scala&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?logo=huggingface&logoColor=000)
+![scikit‑learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white)
+![Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?logo=apachespark&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?logo=databricks&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?logo=googlecloud&logoColor=white)
+![Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?logo=apacheairflow&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?logo=snowflake&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?logo=powerbi&logoColor=000)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white)
 
 ---
 
-## 💼 Professional Experience
-
-### 🏥 Data Scientist (AI/ML) | Humana (Jan 2025 - Present)
-- Deployed ML models for **patient readmission prediction**, reducing rates by 18%
-- Built **fraud detection** deep learning models with 25% accuracy improvement
-- Created **NLP pipelines** using BERT and Transformers for clinical text analysis
-- Developed scalable **ETL pipelines** with Spark, Databricks, and Airflow
-
-### 🏥 Data Scientist (AI/ML) | CitiusTech (May 2019 - July 2023)
-- Engineered **predictive models** for patient adherence forecasting
-- Optimized **PySpark pipelines** reducing ETL runtime from 8 hours to under 2 hours
-- Implemented **NLP solutions** for medical text classification with 22% precision improvement
-- Containerized ML models with **Docker** and CI/CD via Jenkins
+## 🔭 Currently
+- Designing LLM/NLP pipelines for clinical text and risk stratification on Azure ML and Databricks[attached_file:1].  
+- Hardening MLOps with MLflow tracking, CI/CD, and containerized deployments to Kubernetes[attached_file:1].  
 
 ---
 
-## 🎯 Key Projects
+## 🧪 Featured Projects
+- Clinical Text NLP Pipeline — end‑to‑end preprocessing, NER (ClinicalBERT), classification API with FastAPI (new repo)[attached_file:1].  
+- KNN‑from‑scratch — clean implementation with metrics and decision boundary visualizations[attached_file:1].  
+- Computer‑vision‑files — classic CV pipelines and augmentation demos[attached_file:1].  
+- NLP‑files — tokenization, embeddings, sequence models, and evaluation utilities[attached_file:1].  
+- Flask_regex — micro‑service showcasing pattern extraction and form validation[attached_file:1].  
+- URL_shortner — minimal URL shortener with persistence and tests[attached_file:1].  
 
-### 🩺 Healthcare Readmission Prediction
-- Built supervised learning models with **XGBoost** and **TensorFlow**
-- Achieved 18% reduction in patient readmission rates
-- Deployed on **Azure ML** with automated retraining pipelines
-
-### 🔍 Fraud Detection System
-- Deep learning models (**CNNs, RNNs, Transformers**) in PyTorch
-- 25% improvement in fraud detection accuracy
-- Reduced false positives by 15%
-
-### 📝 Clinical NLP Pipeline
-- Extracted clinical risk indicators from physician notes
-- Used **BERT, SpaCy, Hugging Face Transformers**
-- Improved patient care personalization
+_Link format example: `https://github.com/saichandu04/REPO_NAME` (update each item to the exact repository)[attached_file:1].  
 
 ---
 
-## 📫 Let's Connect!
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/sunkara-sai-chandu/)
-- 📧 [Email](mailto:saichandusunkara1998@gmail.com)
-- 📱 +1 (551)359-0972
+## 💼 Experience
+- Data Scientist (AI/ML) — Humana: readmission prediction, fraud detection with Transformers, Spark ETL on Databricks[attached_file:1].  
+- Data Scientist (AI/ML) — CitiusTech: predictive modeling, clinical NLP, PySpark optimization, CI/CD with Docker/Jenkins[attached_file:1].  
 
 ---
 
-<div align="center">
-  
-*"Turning data into actionable insights, one model at a time."* 🚀
+## 📫 Contact
+<a href="https://www.linkedin.com/in/sunkara-sai-chandu/">LinkedIn</a> • <a href="mailto:saichandusunkara1998@gmail.com">Email</a> • New York, USA[attached_file:1].  
 
-</div>
+<p align="center"><i>“Turning data into actionable insights, one model at a time.”</i> 🚀</p>
