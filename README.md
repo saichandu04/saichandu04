@@ -23,7 +23,7 @@ Currently, I focus on MLOps, large language models (LLMs), and generative AI to 
 
 ---
 
-## 🛠️ Tech Stack & Trending Skills
+## 🛠️ Tech Stack
 
 ### Programming Languages & Tools
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
